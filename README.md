@@ -29,6 +29,8 @@
 * Node.js - V 16.10.0
 * npm - V 7.24.0
 * discord.js - V 13.2.0
+### Node.js 模組
+*
 
 ## 配置文件 - Config.json
 *
